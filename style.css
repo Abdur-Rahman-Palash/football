@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Karla:ital,wght@0,200..800;1,200..800&family=Manrope:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Poppins", sans-serif;
+}
+.nav-bar-options{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+}
+.nav-bar{
+    display: flex;
+    gap: 100px;
+    justify-content: space-around;
+    align-items: center;
+}
+.banner-image img{
+    width: 350px;
+}
+header{
+    background:#2D25A0;
+}
+.banner{
+    display: flex;
+    gap: 150px;
+    justify-content: space-around;
+    align-items: center;
+}
+.banner-text{
+    color: white;
+}
+.btn{
+    background: #E02C6D;
+    color: white;
+    padding: 7px;
+    border: none;
+}
+.btn-1{
+    background: #E02C6D;
+    color: white;
+    padding: 7px;
+    border: none;
+}
+.main-card-1 img{
+    width: 200px;
+}
+.main-card-2 img{
+    width: 200px;
+}
+.main-card-3 img{
+    width: 200px;
+}
+.main-card-1 {
+    border: 2px solid gainsboro;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+}
+.main-card-2 {
+    border: 2px solid gainsboro;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+}
+.main-card-3 {
+    border: 2px solid gainsboro;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+}
+.main-cards{
+    margin-top: 50px;
+}
+.main-cards-1{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+.main-cards-2{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+}
+.main-cards-3{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+}
+.main-cards-4{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+}
+.highlight-image img{
+    width: 320px;
+}
+.highlight{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.footer img{
+    width: 300px;
+}
+.footer{
+    margin-top: 70px;
+    text-align: center;
+}
+.icons img{
+   width: 20px;
+}
